@@ -1,0 +1,41 @@
+nav {
+	font-size: x-large;
+	font-family: Arial, Helvetica, sans-serif;
+	position: relative;
+
+}
+
+.BrandTitle {
+	font-weight: bold;
+	color: whitesmoke;
+}
+
+.menu {
+	width: 5000px;
+	height: 50px;
+	max-width: 100%;
+	background-position: center;
+	background-size: cover;
+	background-color: #0ABAB5;color: white;
+	position: absolute;z-index: 1;
+	padding-bottom: 14.5px;
+}
+
+a {
+	text-decoration-line: none;
+	color: inherit;
+}
+
+.Menus {
+	text-align: center;
+	list-style: none;
+}
+
+.Menus li{
+	display: inline-block;
+}
+
+.Menus :hover {
+	font-weight: normal;
+	color: rgb(196, 194, 194);
+}
